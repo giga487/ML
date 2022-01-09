@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Push only Cpp files.
+Eigen/
+.vs/**/*.*
+MLStudyProject/.vs/**/*.*
+MLStudyProject/x64/**/*.*
+MLStudyProject/MLStudyProject/x64/**/*.*
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
